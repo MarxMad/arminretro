@@ -1,0 +1,77 @@
+
+.barranav{
+	background-color: #d50000;
+}
+
+.barranav img{
+	width: 100px;
+}
+.barranav {
+	font-size: 25px;
+	
+}
+.barranav form{
+	width:30px;
+}
+#membresias, #codigos{
+	color: #00B0FF;
+}
+.card img{
+	width: 250px;
+	margin:auto;
+	margin-top: 20px;
+}
+.card{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.row{
+	
+	align-items: center;
+
+}
+
+iframe{
+	width: 100%;
+
+}
+.dropdown-item{
+	background-color: #ff8f00;
+	color: #283593;
+}
+.dropdown-divider{
+	background-color: #E57373;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  
+  background-color: #00B0FF;
+  font-family: 'Bungee', cursive;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.container h1  h6  button{
+	color:#FFEA00 ;
+	text-align: center;
+
+
+	
+}
+footer{
+	background-color: #d50000;
+}
+#mapa iframe{
+	border-radius: 10px;
+	width: 300px;
+	height: 300px
+}
+.redes img{
+	width: 60px;
+	height: 60px;
+}
